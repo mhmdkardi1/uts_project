@@ -31,8 +31,3 @@ Website ini terdiri dari beberapa halaman utama:
 
 ---
 
-## 🚀 Cara Menjalankan Proyek
-
-1. Clone repository ini:
-   ```bash
-   git clone https://github.com/<username>/UTS_WEB_LANJUT_SUKARDI_ALAMSYAH_2201040005.git
