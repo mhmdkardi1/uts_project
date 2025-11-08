@@ -21,3 +21,6 @@ class Post{
     }
   }
 }
+//Model: mengelola data & logika (biasanya dari database).
+//View: menampilkan data ke pengguna.
+// Controller: penghubung antara Model dan View
